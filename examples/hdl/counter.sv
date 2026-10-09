@@ -12,10 +12,10 @@ module counter #(
         if (!reset_n) begin
             count <= '0;
         end else if (clear) begin
-            count <= '0;
+            count = '0;
         end else if (enable) begin
             count = count + 1'b1;
         end
     end
-    assign broken_signal = ;
+
 endmodule
