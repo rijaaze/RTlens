@@ -2,6 +2,15 @@
 
 A hardware simulation and execution framework with Docker containerization and MongoDB backend.
 
+
+## 🎥 Demo
+
+Watch RTLens in action as it analyzes a GitHub pull request,
+runs HDL checks, and generates AI-powered code review suggestions.
+
+[▶ Watch the RTLens Demo](https://www.youtube.com/watch?v=RW_q0pptYeg)
+
+
 ## Prerequisites
 
 Install the following using Homebrew:
