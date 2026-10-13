@@ -1,4 +1,4 @@
-# Quartz
+# RTlens
 
 A hardware simulation and execution framework with Docker containerization and MongoDB backend.
 
